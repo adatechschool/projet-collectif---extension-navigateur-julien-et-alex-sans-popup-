@@ -12,6 +12,7 @@ Un bouton sur la fenêtre modale permet de sauvegarder la note sur son PC au for
 
 ## Auteurs
 * **Julien Hilaire** _alias_ [@jhilaa](https://github.com/jhilaa)
+* **Alex Soulis**  _alias_ [@Soulis-Alex](https://https://github.com/Soulis-Alex)
 * **Ada Lovelace** _alias_ [@adatechschool](https://github.com/adatechschool)
 
 
