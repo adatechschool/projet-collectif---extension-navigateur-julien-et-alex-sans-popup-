@@ -1,6 +1,6 @@
 # Extension de navigateur "La Note Juste" :black_nib: :musical_note:
 
-![forthebadge](https://img.shields.io/badge/chrome-f542e6)  ![forthebadge](https://img.shields.io/badge/work efficiency-49cade)  
+![forthebadge](https://img.shields.io/badge/chrome-f542e6)  ![forthebadge](https://img.shields.io/badge/work--efficiency-49cade)  
 
 Extension pour le navigateur Chrome
 Quand l'extension est activée, une fenêtre modale s'ouvre devant la page. Lutilisateur peut sélectionner du texte sur la page et le coller directement via un bouton dans la fenêtre modale.
